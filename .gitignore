@@ -1,3 +1,5 @@
+!shared/build/XCFrameworks
+
 *.iml
 .gradle
 .idea
