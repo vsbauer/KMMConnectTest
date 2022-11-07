@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: packageName,
-            path: "./shared/build/XCFrameworks/debug/shared.xcframework"
+            path: "./XCFrameworks/debug/shared.xcframework"
         )
     ],
     swiftLanguageVersions: [.v5]
